@@ -17,8 +17,8 @@ To write a Python function to accept a string, identify a word to be replaced, a
 ### PROGRAM
 
 ```
-#Reg.No: 212222060250
-#Name: Sowjanya A
+Reg.No: 212222060250
+Name: Sowjanya A
 
 def replacestr(n,p):
     print("The old string is {}".format(n))
